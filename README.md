@@ -50,5 +50,4 @@ The **Job Application Tracker** allows users to:
 
 ---
 
-## 📁 Project Structure
 
